@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="skin.bello" version="1.5.5" name="Bello" provider-name="Nessus">
   <requires>
-		<import addon="xbmc.gui" version="4.0.0"/>
+		<import addon="xbmc.gui" version="5.0.0"/>
 		<import addon="service.skin.widgets" version="0.0.25"/>
 		<import addon="script.favourites" version="4.0.9"/>
 		<import addon="script.tvtunes" version="3.0.6"/>
