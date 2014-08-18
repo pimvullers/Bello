@@ -1,5 +1,5 @@
 # XBMC Media Center language file
-# Addon Name: Bello
+# Addon Name: Bello - Beta
 # Addon id: skin.bello
 # Addon Provider: Nessus
 msgid ""
@@ -67,6 +67,10 @@ msgstr "ВКЛ"
 msgctxt "#31012"
 msgid "OFF"
 msgstr "ВЫКЛ"
+
+msgctxt "#31013"
+msgid "Enable Home Menu Animation"
+msgstr "Включить анимацию главного меню"
 
 msgctxt "#31014"
 msgid "ViewType Options"
@@ -208,6 +212,10 @@ msgctxt "#31086"
 msgid "Banner List"
 msgstr "Баннеры"
 
+msgctxt "#31087"
+msgid "VideoWall Fanart"
+msgstr "Фанарт видеостены"
+
 msgctxt "#31088"
 msgid "List Wall"
 msgstr "Стена со списком"
@@ -215,6 +223,14 @@ msgstr "Стена со списком"
 msgctxt "#31098"
 msgid "Home Menu"
 msgstr "Главное Меню"
+
+msgctxt "#31099"
+msgid "Show Home Menu Buttons"
+msgstr "Показать кнопки в Главном Меню"
+
+msgctxt "#31100"
+msgid "Hide Home Menu Buttons"
+msgstr "Скрыть кнопки главного меню"
 
 msgctxt "#31101"
 msgid "Show Weather Info"
@@ -229,8 +245,8 @@ msgid "Hide Now Playing Music Info"
 msgstr "Убрать информацию о проигрываемой музыке"
 
 msgctxt "#31104"
-msgid "Hide Search Button"
-msgstr "Убрать кнопку Поиск"
+msgid "Show Search Button"
+msgstr "Показывать Поиск "
 
 msgctxt "#31105"
 msgid "Hide Trailers Button"
@@ -272,10 +288,6 @@ msgctxt "#31114"
 msgid "Show Videos Button"
 msgstr "Показать кнопку Видео"
 
-msgctxt "#31115"
-msgid "Show DVD Button"
-msgstr "Показать кнопку DVD"
-
 msgctxt "#31116"
 msgid "Show Music Videos Button"
 msgstr "Показать кнопку Муз. видео"
@@ -287,6 +299,10 @@ msgstr "Кнопка Музыка открывает..."
 msgctxt "#31118"
 msgid "Custom Button"
 msgstr "Дополнительная кнопка"
+
+msgctxt "#31119"
+msgid "Custom Home Menu Buttons"
+msgstr "Пользовательские кнопки главного меню"
 
 msgctxt "#31120"
 msgid "Hide Movies Submenu"
@@ -364,10 +380,6 @@ msgctxt "#31138"
 msgid "Enable Movies Notifications"
 msgstr "Включить уведомления о фильмах"
 
-msgctxt "#31139"
-msgid "Enable Addons Notifications"
-msgstr "Включить уведомления дополнений"
-
 msgctxt "#31140"
 msgid "Enable Weather Alerts Notifications"
 msgstr "Включить уведомления о погоде"
@@ -417,12 +429,8 @@ msgid "Show RSS feed in whole skin"
 msgstr "Показывать поток RSS на всех экранах"
 
 msgctxt "#31152"
-msgid "Hide Flagging read from video filenames [COLOR=55white](Blu-ray, HD-DVD)[/COLOR]"
-msgstr "Не показывать флаги из имени видеофайла [COLOR=55white](Blu-ray, HD-DVD)[/COLOR]"
-
-msgctxt "#31153"
-msgid "Enable Login Screen"
-msgstr "Включить экран входа"
+msgid "Hide Live TV Submenu"
+msgstr "Убрать подменю ТВ"
 
 msgctxt "#31154"
 msgid "Choose Trailers Add-on"
@@ -432,9 +440,37 @@ msgctxt "#31155"
 msgid "Add-ons Button opens..."
 msgstr "Кнопка Дополнения открывает..."
 
+msgctxt "#31156"
+msgid "Hide Video Views"
+msgstr "Спрятать просмотры Видео"
+
+msgctxt "#31157"
+msgid "Hide Music Views"
+msgstr "Спрятать просмотры Музыки"
+
 msgctxt "#31158"
 msgid "Views"
 msgstr "Режим просмотра"
+
+msgctxt "#31159"
+msgid "Show FullScreenInfo instead of the SeekBar"
+msgstr "Показывать Полноэкранную информацию вместо панели поиска"
+
+msgctxt "#31160"
+msgid "Download [COLOR=selected]logo.png[/COLOR] for all Movies"
+msgstr "Скачать [COLOR=selected]logo.png[/COLOR] для всех фильмов"
+
+msgctxt "#31162"
+msgid "Enable Kiosk Mode"
+msgstr "Включить Режим \"Киоск\""
+
+msgctxt "#31166"
+msgid "Local subtitle available"
+msgstr "Доступны локальные субтитры"
+
+msgctxt "#31169"
+msgid "Reset Skin"
+msgstr "Сброс настроек обложки"
 
 msgctxt "#31200"
 msgid "My Movies"
@@ -500,6 +536,10 @@ msgctxt "#31216"
 msgid "Last Aired"
 msgstr "Ранее в эфире"
 
+msgctxt "#31217"
+msgid "Wide Thumb"
+msgstr "Широкий эскиз"
+
 msgctxt "#31218"
 msgid "Landscape"
 msgstr "Landscape"
@@ -563,10 +603,6 @@ msgstr "Mинимальная влажность"
 msgctxt "#31233"
 msgid "Chance of Precipitation"
 msgstr "Вероятность осадков"
-
-msgctxt "#31234"
-msgid "Fetching Forecast Info for..."
-msgstr "Получение прогноза для…"
 
 msgctxt "#31235"
 msgid "Current Forecast"
@@ -639,6 +675,10 @@ msgstr "Все ТВ шоу"
 msgctxt "#31252"
 msgid "All Music"
 msgstr "Вся музыка"
+
+msgctxt "#31254"
+msgid "Search on YouTube"
+msgstr "Искать на YouTube"
 
 msgctxt "#31280"
 msgid "Open Playlist"
@@ -728,6 +768,10 @@ msgctxt "#31315"
 msgid "Hide Scrolling Titles"
 msgstr "Убрать бегущие названия"
 
+msgctxt "#31316"
+msgid "Now Playing"
+msgstr "Сейчас проигрывается"
+
 msgctxt "#31350"
 msgid "Available Groups"
 msgstr "Доступные группы"
@@ -767,14 +811,6 @@ msgstr "Упрощенная навигация"
 msgctxt "#31375"
 msgid "Disable Quick Navigation"
 msgstr "Отключить упрощенную навигацию"
-
-msgctxt "#31376"
-msgid "Show Update Video Library Button"
-msgstr "Показать кнопку \"Обновить видеотеку\""
-
-msgctxt "#31377"
-msgid "Show Update Music Library Button"
-msgstr "Показать кнопку \"Обновить медиатеку\""
 
 msgctxt "#31378"
 msgid "Show Clean Video Library Button"
@@ -827,10 +863,6 @@ msgstr "Убрать кнопку Новые ТВ шоу"
 msgctxt "#31390"
 msgid "Hide New Music Button"
 msgstr "Убрать кнопку Новая Музыка"
-
-msgctxt "#31391"
-msgid "Hide Settings Button"
-msgstr "Убрать кнопку Настройки"
 
 msgctxt "#31392"
 msgid "Show Videos Button"
@@ -888,10 +920,6 @@ msgctxt "#31409"
 msgid "Choose from a variety of settings and customization options to make \"Bello\" fit your needs and taste."
 msgstr "Множество дополнительных настроек и возможностей персонификации позволят вам настроить Bello по вашему вкусу."
 
-msgctxt "#31410"
-msgid "With XBMC you can have several profiles, even a logon screen for controlled access."
-msgstr "XBMC позволяет иметь различные профили пользователей и экран входа для ограничения доступа."
-
 msgctxt "#31411"
 msgid "Configure Appearance Settings"
 msgstr "Настройки внешнего вида"
@@ -931,3 +959,7 @@ msgstr "Настройки профайлов"
 msgctxt "#31420"
 msgid "Configure Skin Settings"
 msgstr "Настройки обложки"
+
+msgctxt "#31430"
+msgid "Help"
+msgstr "Справка"

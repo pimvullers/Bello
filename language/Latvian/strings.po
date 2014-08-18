@@ -1,5 +1,5 @@
 # XBMC Media Center language file
-# Addon Name: Bello
+# Addon Name: Bello - Beta
 # Addon id: skin.bello
 # Addon Provider: Nessus
 msgid ""
@@ -20,6 +20,10 @@ msgctxt "#31002"
 msgid "TV Shows"
 msgstr "TV Šovi"
 
+msgctxt "#31003"
+msgid "Aired"
+msgstr "Ēterā"
+
 msgctxt "#31006"
 msgid "Sort: Ascending"
 msgstr "Kārtot: Augošā secībā"
@@ -27,6 +31,18 @@ msgstr "Kārtot: Augošā secībā"
 msgctxt "#31007"
 msgid "Sort: Descending"
 msgstr "Kārtot: Dilstošā secībā"
+
+msgctxt "#31009"
+msgid "Context Menu"
+msgstr "Satura izvēlne"
+
+msgctxt "#31017"
+msgid "Karaoke Song Selector"
+msgstr "Karaoke dziesmas izvēlētājs"
+
+msgctxt "#31018"
+msgid "Trailers"
+msgstr "Rullīši"
 
 msgctxt "#31023"
 msgid "Info"
@@ -56,6 +72,10 @@ msgctxt "#31036"
 msgid "Close"
 msgstr "Aizvērt"
 
+msgctxt "#31166"
+msgid "Local subtitle available"
+msgstr "PIeejami vietējie subtitri"
+
 msgctxt "#31229"
 msgid "Last Updated"
 msgstr "Pēdējie atjaunotie"
@@ -63,6 +83,10 @@ msgstr "Pēdējie atjaunotie"
 msgctxt "#31237"
 msgid "View"
 msgstr "Skats"
+
+msgctxt "#31285"
+msgid "Playlist Options"
+msgstr "Spēļsaraksta opcijas"
 
 msgctxt "#31301"
 msgid "Playing"
@@ -75,3 +99,7 @@ msgstr "Iepauzēts"
 msgctxt "#31309"
 msgid "Visualization Presets"
 msgstr "Vizualizācijas sagataves"
+
+msgctxt "#31316"
+msgid "Now Playing"
+msgstr "Pašlaik atskaņo"

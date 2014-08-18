@@ -1,5 +1,5 @@
 # XBMC Media Center language file
-# Addon Name: Bello
+# Addon Name: Bello - Beta
 # Addon id: skin.bello
 # Addon Provider: Nessus
 msgid ""
@@ -36,6 +36,10 @@ msgctxt "#31017"
 msgid "Karaoke Song Selector"
 msgstr "Karaoke kanta antzemalea"
 
+msgctxt "#31018"
+msgid "Trailers"
+msgstr "Trailerra"
+
 msgctxt "#31020"
 msgid "Found"
 msgstr "Aurkitua"
@@ -67,6 +71,10 @@ msgstr "PM"
 msgctxt "#31033"
 msgid "Channel Group"
 msgstr "Kate taldea"
+
+msgctxt "#31166"
+msgid "Local subtitle available"
+msgstr "Azpititulu lokala erabilgarri"
 
 msgctxt "#31223"
 msgid "36 Hour Forecast"
@@ -107,6 +115,10 @@ msgstr "Pausatuta"
 msgctxt "#31309"
 msgid "Visualization Presets"
 msgstr "Ikuste aurrezpenak"
+
+msgctxt "#31316"
+msgid "Now Playing"
+msgstr "Orain erreproduzitzen"
 
 msgctxt "#31351"
 msgid "Add Group"

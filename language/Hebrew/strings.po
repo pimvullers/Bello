@@ -1,5 +1,5 @@
 # XBMC Media Center language file
-# Addon Name: Bello
+# Addon Name: Bello - Beta
 # Addon id: skin.bello
 # Addon Provider: Nessus
 msgid ""
@@ -176,6 +176,10 @@ msgctxt "#31101"
 msgid "Show Weather Info"
 msgstr "הצג מידע על מזג האוויר"
 
+msgctxt "#31104"
+msgid "Show Search Button"
+msgstr "הצג חיפוש"
+
 msgctxt "#31127"
 msgid "Landscape"
 msgstr "לנדסקייפ"
@@ -200,9 +204,21 @@ msgctxt "#31158"
 msgid "Views"
 msgstr "תצוגות"
 
+msgctxt "#31162"
+msgid "Enable Kiosk Mode"
+msgstr "הפעלת מצב מחשב ציבורי"
+
+msgctxt "#31166"
+msgid "Local subtitle available"
+msgstr "כתובית מקומית זמינה"
+
 msgctxt "#31203"
 msgid "New Search"
 msgstr "חיפוש חדש"
+
+msgctxt "#31215"
+msgid "Next Airs"
+msgstr "מועד השידור הבא"
 
 msgctxt "#31218"
 msgid "Landscape"
@@ -296,6 +312,14 @@ msgctxt "#31309"
 msgid "Visualization Presets"
 msgstr "קביעוני חיזוי"
 
+msgctxt "#31316"
+msgid "Now Playing"
+msgstr "מנגן כעת"
+
+msgctxt "#31350"
+msgid "Available Groups"
+msgstr "קבוצות זמינות"
+
 msgctxt "#31351"
 msgid "Add Group"
 msgstr "הוסף קבוצה"
@@ -323,3 +347,7 @@ msgstr "נקה ספריית וידאו"
 msgctxt "#31373"
 msgid "Clean Music Library"
 msgstr "נקה ספריית מוזיקה"
+
+msgctxt "#31430"
+msgid "Help"
+msgstr "עזרה"

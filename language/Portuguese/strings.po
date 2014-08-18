@@ -1,5 +1,5 @@
 # XBMC Media Center language file
-# Addon Name: Bello
+# Addon Name: Bello - Beta
 # Addon id: skin.bello
 # Addon Provider: Nessus
 msgid ""
@@ -162,7 +162,7 @@ msgstr "Fechar"
 
 msgctxt "#31037"
 msgid "Change Rating"
-msgstr "Mudar classificação"
+msgstr "Alterar Classificação"
 
 msgctxt "#31038"
 msgid "Esc"
@@ -225,8 +225,8 @@ msgid "Hide Now Playing Music Info"
 msgstr "Esconder informação da musica que está a tocar"
 
 msgctxt "#31104"
-msgid "Hide Search Button"
-msgstr "Ocultar botão de Pesquisa"
+msgid "Show Search Button"
+msgstr "Mostrar Botão da Procura"
 
 msgctxt "#31105"
 msgid "Hide Trailers Button"
@@ -267,10 +267,6 @@ msgstr "Esconder o botão Definições"
 msgctxt "#31114"
 msgid "Show Videos Button"
 msgstr "Exibir botão de Videos"
-
-msgctxt "#31115"
-msgid "Show DVD Button"
-msgstr "Exibir botão de DVD"
 
 msgctxt "#31116"
 msgid "Show Music Videos Button"
@@ -352,10 +348,6 @@ msgctxt "#31138"
 msgid "Enable Movies Notifications"
 msgstr "Activar Notificações de Filmes"
 
-msgctxt "#31139"
-msgid "Enable Addons Notifications"
-msgstr "Activar notificações de Add-ons"
-
 msgctxt "#31140"
 msgid "Enable Weather Alerts Notifications"
 msgstr "Activar notificações de alerta de tempo"
@@ -368,21 +360,41 @@ msgctxt "#31142"
 msgid "Choose Subtitles Add-on"
 msgstr "Escolher o add-on de legendas"
 
+msgctxt "#31143"
+msgid "Enable NextAired Info on TV Shows [COLOR=55white](Requires Next Aired Add-on)[/COLOR]"
+msgstr "Activar Informação do NextAired nos programas da TV [COLOR=55white](Requer Add-on do Next Aired)[/COLOR]"
+
+msgctxt "#31144"
+msgid "Enable Music Theme on TV Shows [COLOR=55white](Requires TV Tunes Add-on)[/COLOR]"
+msgstr "Activar Tema de Música nos Programas da TV [COLOR=55white](Requer Add-on do TV Tunes)[/COLOR]"
+
 msgctxt "#31149"
 msgid "Download [COLOR=selected]banner.jpg[/COLOR] for all TV Shows"
 msgstr "Download [COLOR=selected]banner.jpg[/COLOR] para todas as Séries TV"
-
-msgctxt "#31153"
-msgid "Enable Login Screen"
-msgstr "Ativar ecrã de login"
 
 msgctxt "#31154"
 msgid "Choose Trailers Add-on"
 msgstr "Escolher add-on de Trailers"
 
+msgctxt "#31155"
+msgid "Add-ons Button opens..."
+msgstr "O Botão dos Add-ons abre ..."
+
 msgctxt "#31158"
 msgid "Views"
 msgstr "Vistas"
+
+msgctxt "#31162"
+msgid "Enable Kiosk Mode"
+msgstr "Activar Modo de Quiosque"
+
+msgctxt "#31166"
+msgid "Local subtitle available"
+msgstr "Legenda local disponível"
+
+msgctxt "#31169"
+msgid "Reset Skin"
+msgstr "Reiniciar Definições do Tema"
 
 msgctxt "#31200"
 msgid "My Movies"
@@ -399,6 +411,18 @@ msgstr "A minha Música"
 msgctxt "#31203"
 msgid "New Search"
 msgstr "Nova Procura"
+
+msgctxt "#31205"
+msgid "Browse the most recently added movies"
+msgstr "Pesquisar os filmes adicionados mais recentemente"
+
+msgctxt "#31206"
+msgid "Browse the most recently added episodes"
+msgstr "Pesquisar os episódios adicionados mais recentemente"
+
+msgctxt "#31207"
+msgid "Browse the most recently added albums"
+msgstr "Pesquisar os álbuns adicionados mais recentemente"
 
 msgctxt "#31214"
 msgid "Airing"
@@ -528,6 +552,10 @@ msgctxt "#31252"
 msgid "All Music"
 msgstr "Todas as Musicas"
 
+msgctxt "#31254"
+msgid "Search on YouTube"
+msgstr "Procurar no YouTube"
+
 msgctxt "#31280"
 msgid "Open Playlist"
 msgstr "Abrir lista de reprodução"
@@ -538,7 +566,7 @@ msgstr "Guardar lista de reprodução"
 
 msgctxt "#31282"
 msgid "Close Playlist"
-msgstr "Fechar lista de reprodução"
+msgstr "Fechar Lista de Reprodução"
 
 msgctxt "#31283"
 msgid "System Music Files"
@@ -600,6 +628,10 @@ msgctxt "#31313"
 msgid "Animated Backgrounds"
 msgstr "Fundos de Ecrã Animado"
 
+msgctxt "#31316"
+msgid "Now Playing"
+msgstr "A Reproduzir"
+
 msgctxt "#31350"
 msgid "Available Groups"
 msgstr "Grupos Disponíveis"
@@ -656,10 +688,6 @@ msgctxt "#31387"
 msgid "Hide Add-ons Button"
 msgstr "Ocultar botão de Add-ons"
 
-msgctxt "#31391"
-msgid "Hide Settings Button"
-msgstr "Esconder o botão Definições"
-
 msgctxt "#31392"
 msgid "Show Videos Button"
 msgstr "Exibir botão de Videos"
@@ -703,3 +731,7 @@ msgstr "Configurar opções de sistema"
 msgctxt "#31419"
 msgid "Configure Profiles Settings"
 msgstr "Configurar definições dos Perfis"
+
+msgctxt "#31430"
+msgid "Help"
+msgstr "Ajuda"
